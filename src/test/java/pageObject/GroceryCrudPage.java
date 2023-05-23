@@ -153,8 +153,6 @@ public class GroceryCrudPage {
     }
 
     public void chooseDropdown() throws InterruptedException {
-        //JavascriptExecutor js = (JavascriptExecutor) driver;
-        //js.executeScript("window.scrollTo(0, document.body.scrollHeight)");
         Thread.sleep(100);
         wait.until(ExpectedConditions.visibilityOf(employeerDropDownList));
         employeerDropDownList.click();

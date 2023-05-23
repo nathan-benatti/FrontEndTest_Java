@@ -57,7 +57,6 @@
       And The Entry number is checked to be the same
 
 
-##------------------------------------------CHECKBOX OPTIONS----------------------------------------------------------##
 
 
 
